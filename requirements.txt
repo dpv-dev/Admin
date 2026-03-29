@@ -1,6 +1,3 @@
 streamlit
-pandas
 st-gsheets-connection
-fpdf2
-plotly
-openpyxl
+pandas
