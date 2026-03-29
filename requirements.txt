@@ -1,3 +1,6 @@
 streamlit
-st-gsheets-connection
 pandas
+st-gsheets-connection
+fpdf2
+plotly
+openpyxl
